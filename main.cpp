@@ -13,6 +13,6 @@ int main()
     cout << *p1 << endl;
 
     cout << p2 << endl;
-    cout << *p2 << endl;
+    cout << *p2 << endl; // Just to check remote settings
     return 0;
 }

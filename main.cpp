@@ -14,5 +14,9 @@ int main()
 
     cout << p2 << endl;
     cout << *p2 << endl; // Just to check remote settings
+	
+	int* p3 = p1;
+	cout << p3 << "\n" << endl;
+	cout << *p3 << endl;
     return 0;
 }
